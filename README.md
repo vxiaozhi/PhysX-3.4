@@ -1,5 +1,10 @@
 # NVIDIA PhysX SDK 3.4
 
+## 备忘
+
+- [PhysX 和 NavMesh 在服务器的应用](https://cloud.tencent.com/developer/article/1006053)
+- [physx-visual-debugger download](https://developer.nvidia.com/physx-visual-debugger)
+
 Copyright (c) 2018 NVIDIA Corporation. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
