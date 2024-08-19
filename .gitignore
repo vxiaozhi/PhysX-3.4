@@ -1,0 +1,6 @@
+/**/.deps/*
+/PhysX_3.4/Bin/
+/PhysX_3.4/Lib/
+/PhysX_3.4/Source/compiler/linux64/build/
+/PxShared/bin/
+/PxShared/lib/
